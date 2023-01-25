@@ -1,2 +1,8 @@
-# vue3-pinia
-Vue3 project with pinia
+# Vue 3 Project Demo with Pinia
+
+## Usage
+
+```sh
+yarn
+yarn dev
+```
